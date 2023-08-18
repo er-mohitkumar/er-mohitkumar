@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/er-mohitkumar/er-mohitkumar/raw/main/banner.png" alt="Banner" width="100%">
-</div>
-
 <h2 align="center">👋 Hey, I'm Mohit Kumar</h2>
 
 <p align="center">
