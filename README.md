@@ -14,7 +14,7 @@
   <p>HTML | CSS | JavaScript | React.js</p>
   
   <h3>Projects</h3>
-  <p>Razor Pay Clone | Portfolio</p>
+  <p>SGPA Calculator (2500+ users) | Todo List website </p>
   
   <h3>Achievements</h3>
   <p>Bug Tracking System Research | 2nd Prize at VGU Jaipur</p>
