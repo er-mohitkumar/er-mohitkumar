@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/mohit-kumar-39b637227/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/mohitkumar8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/Mohit_Kumar_2"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter"></a>
 </p>
 
